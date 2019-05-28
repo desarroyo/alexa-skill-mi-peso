@@ -1,0 +1,5 @@
+peso {kg} kilos
+peso {kg} kilogramos
+peso {kg}
+{kg} kilos
+{kg} kilogramos

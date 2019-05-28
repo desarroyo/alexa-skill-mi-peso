@@ -1,0 +1,14 @@
+peso {kg} y mido {mt} {cm}
+{kg} y {cm}
+{kg} y {cm} centímetros
+{kg} kilos y {cm} centímetros
+peso {kg} y mido {cm} centímetros
+peso {kg} kilos y mido {cm}
+peso {kg} kilos y mido {cm} centímetros
+peso {kg} y mido {cm}
+"mido {mt} {cm} y peso {kg} "
+"mido {mt} punto {cm} y peso {kg} "
+"mido {cm} centímetros y peso {kg} "
+"mido {cm} y peso {kg} kilos "
+"mido {cm} centímetros y peso {kg} kilos "
+"mido {cm} y peso {kg} "

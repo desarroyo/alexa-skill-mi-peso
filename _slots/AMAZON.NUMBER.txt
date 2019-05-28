@@ -1,0 +1,6 @@
+kg	PesoIntent
+cm	EstaturaIntent
+mt	EstaturaIntent
+kg	PesoEstaturaIntent
+cm	PesoEstaturaIntent
+mt	PesoEstaturaIntent
